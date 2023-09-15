@@ -1,0 +1,8 @@
+{
+    "mysql": {
+        "banco-de-dados": "loja",
+        "usuario": "root",
+        "senha": "Fatec@1234",
+        "host": "localhost"
+    }
+}
